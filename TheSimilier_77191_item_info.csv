@@ -1,37 +1,37 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-21 14:38:42
-item-10,Dummy Core,924
-item-31,Basic Training Data,282
-item-32,Intermediate Training Data,251
-item-33,Advanced Training Data,2458
+item-10,Dummy Core,1035
+item-31,Basic Training Data,253
+item-32,Intermediate Training Data,54
+item-33,Advanced Training Data,140
 -1,kalina_level,30
--1,kalina_favor,200531
-item-1,T-Doll Contract,871
-item-2,Equipment Contract,2417
-item-3,Quick Production Contract,120
-item-4,Quick Repair Contract,3104
+-1,kalina_favor,201331
+item-1,T-Doll Contract,902
+item-2,Equipment Contract,2507
+item-3,Quick Production Contract,193
+item-4,Quick Repair Contract,3266
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
-item-8,Quick Training Contract,57
-item-9,Enhancement Capsule,3371
+item-8,Quick Training Contract,70
+item-9,Enhancement Capsule,3525
 item-11,Key Card,0
-item-12,Points,0
+item-12,Points,220
 item-13,Name Change Card,2
 item-14,Original Sample,3
-item-15,Pure Sample,1
-item-16,Quick Analysis Contract,822
-item-17,Data Patch,13
-item-41,Token,1084
+item-15,Pure Sample,19
+item-16,Quick Analysis Contract,825
+item-17,Data Patch,1
+item-41,Token,1457
 item-42,Exchange Ticket,0
-item-43,Black Card,0
-item-44,Calibration Ticket,1754
-item-45,Memory Fragment,274
-item-46,Special Combat Report,8
-item-47,Theater Material,1
-item-50,Universal Parts,8739
-item-51,New Type Fire-Control Component,36
+item-43,Black Card,1
+item-44,Calibration Ticket,14
+item-45,Memory Fragment,64
+item-46,Special Combat Report,5
+item-47,Theater Material,2
+item-50,Universal Parts,7628
+item-51,New Type Fire-Control Component,38
 item-100,Elite Griffin Combat Medal,7
-item-101,Combat Ranking Medal,86
+item-101,Combat Ranking Medal,100
 item-103,Challenger Medal,19
 item-104,Elite Adventurer Medal,6
 item-105,Sangvis-Griffin Coalition Medal,5
@@ -39,26 +39,27 @@ item-304,Central Data: M2,0
 item-305,Central Data: AT4,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-506,Battery,12831
-item-507,Surplus EXP,239
-item-508,Friendship Points,3470
+item-308,Core Data: PP93,35
+item-506,Battery,6729
+item-507,Surplus EXP,54
+item-508,Friendship Points,4530
 item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,10
-item-513,Dark Star Kernel,9325
-item-514,Petri Dish,604
-item-515,Basic Training Keycode,704
-item-516,Advanced Training Keycode,89
-item-519,HOC General Data,105
+item-513,Dark Star Kernel,12925
+item-514,Petri Dish,1269
+item-515,Basic Training Keycode,10076
+item-516,Advanced Training Keycode,544
+item-519,HOC General Data,123
 item-520,Frag Grenade,50
 item-521,Stun Grenade,159
 item-522,Turret,139
-item-525,Quick Auto-Battle Contract,139
+item-525,Quick Auto-Battle Contract,171
 item-601,Infinite Surprise Dye,33
-item-603,Potential Energy,0
-item-604,Electronic Impulse,3
-item-605,Aid Commission,35
-item-606,Transfer Catalyst,175
+item-603,Potential Energy,1
+item-604,Electronic Impulse,0
+item-605,Aid Commission,45
+item-606,Transfer Catalyst,185
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
 item-1003,IDW Icon,1
@@ -272,6 +273,7 @@ item-1763,ID: City of Tomorrow,1
 item-1764,ID: First Light,1
 item-1765,ID: Cold Shelter,1
 item-1766,Background: Safe House,1
+item-1767,Galil Neural Upgrade Icon,1
 item-1770,Icon: Spring,1
 item-1771,Icon: Summer,1
 item-1772,Icon: Fall,1
@@ -301,23 +303,23 @@ item-2016,Icon: Best Partner,2
 item-2017,Icon:  Setting Sail,1
 item-2018,Icon:  Friend of Pure Loyalty,1
 item-2019,ID:  Screen Breakers,1
-item-4001,City's Gift,22325
-item-4002,Snowfield's Gift,533
-item-4003,Forest's Gift,4684
-item-4004,Wasteland's Gift,585
-item-6001,Ordinary Meat Bun,13
+item-4001,City's Gift,26619
+item-4002,Snowfield's Gift,449
+item-4003,Forest's Gift,1318
+item-4004,Wasteland's Gift,317
+item-6001,Ordinary Meat Bun,15
 item-6002,Bundle of Meat Buns,16
 item-6003,Trove of Meat Buns,35
-item-6004,Commonfolk Standard,13
-item-6005,Comfort Bucket for One,26
-item-6006,Full Meal for Two,103
-item-6007,Strawberry Cheesecake Slice,3
+item-6004,Commonfolk Standard,19
+item-6005,Comfort Bucket for One,24
+item-6006,Full Meal for Two,107
+item-6007,Strawberry Cheesecake Slice,2
 item-6008,One Week's Cake Selection,14
-item-6009,Sweet Explosives,145
-item-6010,"Baby  B-A-B-Y.",8
-item-6011,Streetside Oden,6
-item-6012,Wild Honeycomb,3
-item-6013,Icy Theater,5
+item-6009,Sweet Explosives,149
+item-6010,"Baby  B-A-B-Y.",7
+item-6011,Streetside Oden,5
+item-6012,Wild Honeycomb,0
+item-6013,Icy Theater,6
 item-7004,Lovestruck,10
 item-7007,Princess Syndrome,1
 item-7010,Golden Lullaby,2
@@ -333,7 +335,7 @@ item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,0
-item-10604,Extra Impulse,38
+item-10604,Extra Impulse,64
 item-100009,Crown of Respect,20
 item-100012,Metal Zongzi,12
 item-100020,True Core Mask·3rd Anniversary,0
@@ -417,25 +419,29 @@ item-900036,Crown of Respect,20
 item-900037,Nova Medal·DJMAX,126
 item-900038,Platinum Medal·DJMAX,45
 item-900039,Xmas Supply Box,0
+item-900040,Nova Medal·The Photo Studio Mystery,2
+item-900041,Platinum Medal·The Photo Studio Mystery,4
+item-900042,Tangerine Coin,190
 item-1100001,High-Speed Beauties,1
 item-1100002,High-Speed Beauties,1
 item-1100003,Galactic Oath,1
 item-1100004,Galactic Oath,1
 item-1100005,Bon appétit !,1
 item-1100006,Bon appétit !,1
-gift-100001,Lollipop,69
-gift-100002,Ice Cream Cone,8
-gift-100003,Strawberry Custard Cheesecake,829
+item-1617,M500 Neural Upgrade Icon,1
+gift-100001,Lollipop,70
+gift-100002,Ice Cream Cone,10
+gift-100003,Strawberry Custard Cheesecake,926
 gift-100005,Mulan Tea,1
 gift-100006,Magic of Happiness,1
 gift-100007,Whiskey,1
 gift-100008,Eden's Apple,1
-gift-200001,Combat Report,28
 gift-200003,Beer on Discount,1
 gift-200004,Paper Target,1
 gift-200005,Kandel Formulation,1
 gift-200006,Satan's Tears,1
-gift-400001,Rapid Growth Disk,100
+gift-400001,Rapid Growth Disk,1191
+gift-200001,Combat Report,1000
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
