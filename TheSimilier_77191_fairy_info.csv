@@ -5,68 +5,55 @@
 71682,1,★★★★★,3000,100,Warrior Fairy,25.0,80.0,40.0,10.0,0,Fervor,10,Locked
 71683,4,★★★★★,3000,100,Shield Fairy,20.0,60.0,80.0,0.0,0,Damage II,10,Locked
 71993,2,★★★★★,3000,100,Fury Fairy,15.0,0.0,40.0,10.0,0,Damage II,10,Locked
+99230,6,★★★★★,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,0,Damage II,10,Locked
 107674,1007,★★★★★,550,100,Anna Graem,25.0,30.0,65.0,8.0,0,Damage II,10,Locked
-181012,19,★★★★★,550,100,Cooking Fairy,10.0,20.0,80.0,20.0,0,Assault,10,Locked
+181012,19,★★★★★,550,100,Cooking Fairy,10.0,20.0,80.0,20.0,0,Damage II,10,Locked
 191586,17,★★★★★,3000,100,Illumination Fairy,0.0,90.0,32.0,8.0,0,Damage II,10,Locked
 191588,8,★★★★★,3000,100,Artillery Fairy,55.0,0.0,56.0,6.0,0,Damage II,10,Locked
 191611,9,★★★★★,3000,100,Airstrike Fairy,30.0,50.0,40.0,10.0,0,Fervor,10,Locked
-238292,20,★★★★★,550,100,Fireworks Fairy,32.0,75.0,32.0,8.0,0,Evasion I,10,Locked
+238292,20,★★★★★,550,100,Fireworks Fairy,32.0,75.0,32.0,8.0,0,Damage I,10,Locked
 255645,25,★★★★★,3000,100,Twin Fairies,18.0,60.0,48.0,12.0,0,Damage II,10,Locked
-259632,1005,★★★★★,550,20,Sehra & Nina,4.5,12.0,15.0,0.0,0,Assault,1,Locked
+259632,1005,★★★★★,550,100,Sehra & Nina,15.0,40.0,50.0,0.0,0,Assault,10,Locked
 267929,1004,★★★★★,550,100,Suee,0.0,0.0,70.0,18.0,0,Fervor,10,Locked
 273207,1006,★★★★★,550,100,Preiya & Camilia,22.0,50.0,10.0,10.0,0,Fervor,10,Locked
 332363,24,★★★★★,3000,100,Barrier Fairy,0.0,72.0,32.0,22.0,0,Damage I,10,Locked
-347789,21,★★★★★,550,40,Zodiac Fairy,9.0,0.0,7.8,7.2,0,Evasion II,1,Locked
+347789,21,★★★★★,550,100,Zodiac Fairy,25.0,0.0,20.0,20.0,0,Evasion II,10,Locked
 392636,10,★★★★★,3000,100,Reinforcement Fairy,12.0,0.0,88.0,12.0,0,Damage II,10,Locked
 393681,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
 394552,3,★★★★★,3000,100,Armor Fairy,22.0,0.0,0.0,25.0,0,Armor II,10,Locked
-427866,22,★★★★★,550,100,Beach Fairy,32.0,0.0,40.0,0.0,0,Fervor,10,Locked
 427868,22,★★★★★,550,100,Beach Fairy,32.0,0.0,40.0,0.0,0,Fervor,10,Locked
-434817,12,★★,425,20,Landmine Fairy,8.5,14.5,28.0,0.0,0,Damage II,10,Locked
-434819,13,★★,415,20,Rocket Fairy,0.0,14.5,0.0,7.5,0,Damage II,10,Locked
-437700,9,★★★★★,3000,70,Airstrike Fairy,20.0,32.8,26.4,7.2,0,Aim,10,Locked
-444731,23,★★★,580,100,Combo Fairy,18.0,51.0,0.0,0.0,0,Fervor,10,Locked
+434817,12,★★★,665,40,Landmine Fairy,11.4,19.8,37.8,0.0,0,Damage II,10,Locked
+434819,13,★★,430,40,Rocket Fairy,0.0,16.5,0.0,8.5,0,Damage II,10,Locked
+437700,9,★★★★★,3000,100,Airstrike Fairy,30.0,50.0,40.0,10.0,0,Damage I,10,Locked
+444731,23,★★★★★,3000,100,Combo Fairy,30.0,85.0,0.0,0.0,0,Fervor,10,Locked
 505581,26,★★★★★,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0,Damage II,10,Locked
-531794,27,★★★★★,550,20,Auspicious Fairy,5.0,18.5,25.0,0.0,0,Damage I,1,Locked
-533142,11,★,0,1,Parachute Fairy,5.6,0.0,5.2,1.2,0,Fervor,10,Locked
-534895,11,★★★★,1765,100,Parachute Fairy,28.8,0.0,25.6,6.4,0,Fervor,10,Locked
-543525,5,★★★★★,3000,100,Defense Fairy,22.0,0.0,80.0,20.0,0,Damage I,10,Locked
-568701,1004,★★★★★,550,70,Suee,0.0,0.0,48.0,12.0,0,Damage I,10,Locked
-610567,1008,★★★★★,550,100,Kouji,18.0,28.0,65.0,17.0,0,Critical II,1,Locked
-658040,28,★★,105,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,0,Armor II,1,Locked
-658041,28,★,0,1,Sand Dancer Fairy,5.2,5.6,11.2,0.0,0,Duststorm Type,1,Locked
-668753,17,★★★★★,3000,70,Illumination Fairy,0.0,62.4,22.4,5.6,0,Fervor,10,Locked
-672506,14,★,0,1,Construction Fairy,3.6,12.0,9.6,2.4,0,Fervor,10,Locked
-679795,1007,★★★★★,550,40,Anna Graem,10.8,13.8,28.8,3.6,0,Fervor,1,Locked
+525003,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
+531794,27,★★★★★,550,100,Auspicious Fairy,18.0,66.0,88.0,0.0,0,Damage I,9,Locked
+533142,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
+534895,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
+543525,5,★★★★★,3000,100,Defense Fairy,22.0,0.0,80.0,20.0,0,Fervor,10,Locked
+568701,1004,★★★★★,550,100,Suee,0.0,0.0,70.0,18.0,0,Damage I,10,Locked
+610567,1008,★★★★★,550,100,Kouji,18.0,28.0,65.0,17.0,0,Critical II,10,Locked
+658040,28,★★★★★,550,70,Sand Dancer Fairy,20.0,20.0,40.8,0.0,0,Armor II,7,Locked
+658041,28,★,0,40,Sand Dancer Fairy,8.0,8.4,16.4,0.0,0,Duststorm Type,7,Locked
+668753,17,★★★★★,3000,100,Illumination Fairy,0.0,90.0,32.0,8.0,0,Fervor,10,Locked
+672506,14,★★,360,40,Construction Fairy,6.0,19.0,15.5,4.0,0,Fervor,10,Locked
+679795,1007,★★★★★,550,100,Anna Graem,25.0,30.0,65.0,8.0,0,Fervor,10,Locked
 742018,29,★★★★★,550,100,Cheerleader Fairy,36.0,75.0,20.0,18.0,0,Damage I,10,Locked
-746046,29,★,0,1,Cheerleader Fairy,5.6,12.4,3.2,3.2,0,Cheering Type,1,Locked
-762326,19,★,0,1,Cooking Fairy,1.2,2.4,9.2,2.4,0,Chef,1,Locked
-782818,30,★★★★,395,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Accuracy I,1,Locked
-782819,30,★,20,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Accuracy I,1,Locked
-784811,30,★★★★★,550,100,Witch Fairy,45.0,60.0,60.0,0.0,0,Damage II,10,Locked
-784812,30,★,0,1,Witch Fairy,5.6,8.0,8.0,0.0,0,Witchcraft,1,Locked
-891960,31,★★★★★,550,40,Trap Fairy,11.4,24.0,0.0,0.0,0,Suppression,1,Locked
+746046,29,★,0,40,Cheerleader Fairy,9.2,19.6,5.2,4.8,0,Cheering Type,7,Locked
+762326,19,★,0,40,Cooking Fairy,2.4,4.8,18.4,4.8,0,Chef,7,Locked
+782818,30,★★★★★,550,100,Witch Fairy,45.0,60.0,60.0,0.0,0,Accuracy I,9,Locked
+782819,30,★★★★★,550,100,Witch Fairy,45.0,60.0,60.0,0.0,0,Accuracy I,7,Locked
+784812,30,★,0,40,Witch Fairy,10.4,14.4,14.4,0.0,0,Witchcraft,7,Locked
+891960,31,★★★★★,550,100,Trap Fairy,27.0,54.0,0.0,0.0,0,Suppression,10,Locked
 943821,4,★★★★★,3000,100,Shield Fairy,20.0,60.0,80.0,0.0,0,Damage II,10,Locked
-986307,1009,★★★★★,550,81,Drive-In Chicken,11.2,0.0,28.8,11.2,0,Damage I,1,Locked
-1065806,32,★★★★★,550,20,Peace Fairy,4.5,15.0,12.0,3.0,0,Keen,1,Locked
-1187192,33,★,0,1,Nurse Fairy,5.6,0.0,3.2,3.2,0,Armor II,1,Locked
-1211562,22,★,60,1,Beach Fairy,3.2,0.0,4.0,0.0,0,Evasion II,1,Locked
-1304433,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Evasion I,1,
-1304434,2,★,0,1,Fury Fairy,2.8,0.0,8.0,2.0,0,Accuracy II,1,
-1305129,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Armor I,1,
-1305130,25,★,0,1,Twin Fairies,3.2,11.2,8.8,2.4,0,Accuracy II,1,
-1305921,10,★,0,1,Reinforcement Fairy,2.0,0.0,14.0,2.0,0,Damage I,1,
-1305922,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Critical II,1,
-1306855,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Fervor,1,
-1306856,17,★,0,1,Illumination Fairy,0.0,20.0,7.2,1.6,0,Armor I,1,
-1307921,15,★,0,1,Command Fairy,8.0,0.0,7.6,2.0,0,Sturdy,1,
-1307922,24,★,0,1,Barrier Fairy,0.0,14.8,6.4,4.4,0,Sturdy,1,
-1308646,11,★,0,1,Parachute Fairy,5.6,0.0,5.2,1.2,0,Accuracy II,1,
-1308647,3,★,0,1,Armor Fairy,4.4,0.0,0.0,5.2,0,Accuracy II,1,
-1308648,16,★,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0,Accuracy I,1,
-1308649,8,★,0,1,Artillery Fairy,10.8,0.0,11.2,1.2,0,Armor I,1,
+986307,1009,★★★★★,550,100,Drive-In Chicken,16.0,0.0,40.0,15.0,0,Damage I,7,Locked
+1065806,32,★★★★★,550,100,Peace Fairy,15.0,50.0,40.0,10.0,0,Keen,7,Locked
+1187192,33,★★,170,40,Nurse Fairy,9.0,0.0,5.0,5.0,0,Armor II,7,Locked
+1211562,22,★★★★,535,70,Beach Fairy,20.0,0.0,24.8,0.0,0,Evasion II,7,Locked
+1387741,34,★★★★★,550,100,Toy Fairy,20.0,66.0,53.0,0.0,0,Entertainment-Type,7,Locked
 658039,28,★★★★★,550,100,Sand Dancer Fairy,30.0,30.0,60.0,0.0,0,Damage II,10,Locked
 543878,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
-525003,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Fervor,10,Locked
-99230,6,★★★★★,3000,100,Taunt Fairy,18.0,58.0,28.0,8.0,0,Damage II,10,Locked
+784811,30,★★★★★,550,100,Witch Fairy,45.0,60.0,60.0,0.0,0,Damage II,10,Locked
+427866,22,★★★★★,550,100,Beach Fairy,32.0,0.0,40.0,0.0,0,Fervor,10,Locked
 546286,11,★★★★★,3000,100,Parachute Fairy,36.0,0.0,32.0,8.0,0,Damage II,10,Locked
